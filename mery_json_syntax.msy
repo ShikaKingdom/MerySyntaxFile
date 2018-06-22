@@ -1,0 +1,25 @@
+﻿#TagBegin=
+#TagEnd=
+#CommentBegin1=
+#CommentEnd1=
+#LineComment1=
+#CommentBegin2=
+#CommentEnd2=
+#LineComment2=
+#SpecialSyntax=None
+#ScriptBegin=
+#ScriptEnd=
+#QuoteSingle=False
+#QuoteDouble=True
+#QuoteContinue=False
+#EscapeCharacter=
+
+#Word Color=0, WholeWord=False, RightSide=False, MatchCase=False, InsideTag=False, RegEx=True
+-*\d*(\.\d)*
+
+#Word Color=3, WholeWord=False, RightSide=False, MatchCase=False, InsideTag=False, RegEx=False
+,
+[
+]
+{
+}
